@@ -1,4 +1,3 @@
-layout_spectrum: 0.8448690096847713
 typography_spectrum: 0.9056481239385903
 color:
   brandStrength: 0.9152929154224694
@@ -11,4 +10,6 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.8448690096847713
 name: ai experiment
+title: I am alive.

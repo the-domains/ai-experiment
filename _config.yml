@@ -6,9 +6,9 @@ color:
   saturation: 0.7720695815514773
   rhythmicContrast: 0.5392427172046155
   brandColors:
-    - '#E7E8D1'
-    - '#D3CEAA'
-    - '#FBF7E4'
-    - '#424242'
-    - '#8E001C'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: ai experiment
